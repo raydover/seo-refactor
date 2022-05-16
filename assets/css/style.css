@@ -19,18 +19,18 @@ body {
 }
 
 header h1 {
-    /* Sets selector header h1 font size and box element */
+    /* Sets selector header h1 text font size and box display element */
     display: inline-block;
     font-size: 48px;
 }
 
 header h1 .seo {
-    /* Sets selector header h1 seo color element */
+    /* Sets selector header h1 seo text color element */
     color: #d9dcd6;
 }
 
 header div {
-    /* Sets selector header content element */
+    /* Sets selector header section content element */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -50,7 +50,7 @@ header div ul li {
 }
 
 a {
-    /* Sets selector hyperlink content element */
+    /* Sets selector hyperlink text color element */
     color: #ffffff;
     text-decoration: none;
 }
@@ -86,7 +86,7 @@ a {
 }
 
 .hero {
-    /* Sets selector class hero image content element */
+    /* Sets selector class hero img content element */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -96,7 +96,7 @@ a {
 }
 
 .content {
-    /* Sets selector class content box width and margin element*/
+    /* Sets selector class content box width and margin element */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -113,7 +113,7 @@ a {
     margin-right: 25px;
 }
 .search-engine-optimization h2 {
-    /* Sets selector header search engine optimization header margin and font size element */
+    /* Sets selector header search engine optimization header trxt margin and font size element */
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -135,7 +135,7 @@ p {
 }
 
 .online-reputation-management h2 {
-    /* Sets selector header online reputation managment header margin and font size element */
+    /* Sets selector header online reputation managment header text margin and font size element */
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -146,13 +146,13 @@ p {
 }
 
 .social-media-marketing h2 {
-    /* Sets selector header social media marketing header margin and font size element */
+    /* Sets selector header social media marketing header text margin and font size element */
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 .benefits {
-    /* Sets selector div class benefits box content element*/
+    /* Sets selector div class benefits section content element */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -214,7 +214,7 @@ p {
 }
 
 .benefit-cost img {
-    /* Sets selector benefit cost img content element*/
+    /* Sets selector benefit cost img content element */
     display: block;
     margin: 10px auto;
     max-width: 150px;

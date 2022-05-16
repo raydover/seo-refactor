@@ -9,7 +9,7 @@
 
 ## Decription
 
-This assignement required working on existing code to optimize and improve the SEO (Search Egnine Optimization) of a page. Checking that all clicks are functioning correctly and increase the efficency of the css.
+The assignement required working on an existing code to optimize and improve the SEO (Search Egnine Optimization) of a page. Along with verifying that all clicks are functioning correctly and consolidateing selectors to increase the efficency of the css.
 
 ## Resources
 
@@ -19,7 +19,7 @@ This assignement required working on existing code to optimize and improve the S
 
 ## Visuals
 
-![Digital Marketing Meeting]{assets/images/Horiseon-Search-Engine-Optimization.png}
+![Digital Marketing Meeting](./assets/images/horiseon-search-engine-optimization.png)
 
 ## Authors and Acknowledgements
 
