@@ -19,7 +19,7 @@ This assignement required working on existing code to optimize and improve the S
 
 ## Visuals
 
-![Digital Marketing Meeting]{}
+![Digital Marketing Meeting]{assets/images/Horiseon-Search-Engine-Optimization.png}
 
 ## Authors and Acknowledgements
 

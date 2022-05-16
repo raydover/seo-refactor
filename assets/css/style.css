@@ -164,64 +164,64 @@ p {
 }
 
 .benefit-lead {
-    /* Sets */
+    /* Sets selector div class benefits lead text margin and color element */
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-lead h3 {
-    /* Sets */
+    /* Sets selector div class benefits lead header margin and alignment element */
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-lead img {
-    /* Sets */
+    /* Sets selector benefit lead img content element */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 .benefit-brand {
-    /* Sets */
+    /* Sets selector benefit brand text margin and color element */
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-brand h3 {
-    /* Sets */
+    /* Sets selector benefit brand header text margin and alignment element */
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-brand img {
-    /* Sets */
+    /* Sets selector benefit brand img content element */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 .benefit-cost {
-    /* Sets */
+    /* Sets selector div class benefit cost text margin and color element */
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit-cost h3 {
-    /* Sets */
+    /* Sets div class benefit cost header text margin and alignment element */
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-cost img {
-    /* Sets */
+    /* Sets selector benefit cost img content element*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 footer {
-    /* Sets */
+    /* Sets selector footer content element */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -229,6 +229,6 @@ footer {
 }
 
 footer h2 {
-    /* Sets */
+    /* Sets selector element footer header font size element */
     font-size: 20px;
 }
