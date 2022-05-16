@@ -6,7 +6,7 @@
 }
 
 header {
-    /* Sets selector header */
+    /* Sets selector header content element */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -19,18 +19,18 @@ body {
 }
 
 header h1 {
-    /* Sets selector header h1 font size and boxes */
+    /* Sets selector header h1 font size and box element */
     display: inline-block;
     font-size: 48px;
 }
 
 header h1 .seo {
-    /* Sets selector header h1 seo color*/
+    /* Sets selector header h1 seo color element */
     color: #d9dcd6;
 }
 
 header div {
-    /* Sets selector header div*/
+    /* Sets selector header content element */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -39,24 +39,24 @@ header div {
 }
 
 header div ul {
-    /* Sets */
+    /* Sets header div ul style element */
     list-style-type: none;
 }
 
 header div ul li {
-    /* Sets */
+    /* Sets header div ul li box and margin element */
     display: inline-block;
     margin-left: 25px;
 }
 
 a {
-    /* Sets */
+    /* Sets selector hyperlink content element */
     color: #ffffff;
     text-decoration: none;
 }
 
 .search-engine-optimization {
-    /* Sets */
+    /* Sets selector search engine optimization box and content element */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -66,7 +66,7 @@ a {
 }
 
 .online-reputation-management {
-    /* Sets */
+    /* Sets selector online reputation managment box and content element */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -76,7 +76,7 @@ a {
 }
 
 .social-media-marketing {
-    /* Sets */
+    /* Sets selector social media marketing box and content element */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -86,7 +86,7 @@ a {
 }
 
 .hero {
-    /* Sets */
+    /* Sets selector class hero image content element */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -96,63 +96,63 @@ a {
 }
 
 .content {
-    /* Sets */
+    /* Sets selector class content box width and margin element*/
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 .search-engine-optimization img {
-    /* Sets */
+    /* Sets selector search engine optimization image max height element */
     max-height: 200px;
 }
 
 .float-left {
-    /* Sets */
+    /* Sets selector search engine optimization image content float left element */
     float: left;
     margin-right: 25px;
 }
 .search-engine-optimization h2 {
-    /* Sets */
+    /* Sets selector header search engine optimization header margin and font size element */
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 p {
-    /* Sets */
+    /* Sets selector paragraph font size element */
     font-size: 16px;
 }
 
 .online-reputation-management img {
-    /* Sets */
+    /* Sets selector online reputation managment image max height element */
     max-height: 200px;
 }
 
 .float-right {
-    /* Sets */
+    /* Sets selector online reputation managment image content float left element */
     float: right;
     margin-left: 25px;
 }
 
 .online-reputation-management h2 {
-    /* Sets */
+    /* Sets selector header online reputation managment header margin and font size element */
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 .social-media-marketing img {
-    /* Sets */
+    /* Sets selector header social media marketing image max height element */
     max-height: 200px;
 }
 
 .social-media-marketing h2 {
-    /* Sets */
+    /* Sets selector header social media marketing header margin and font size element */
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 .benefits {
-    /* Sets */
+    /* Sets selector div class benefits box content element*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
