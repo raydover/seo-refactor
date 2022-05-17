@@ -91,7 +91,7 @@ a {
 }
 
 main {
-    /* Sets selector class content box width and margin element */
+    /* Sets selector main content box width and margin element */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -147,7 +147,7 @@ p {
 }
 
 aside {
-    /* Sets selector div class benefits section content element */
+    /* Sets selector aside section content element */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -158,7 +158,7 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit {
     /* Sets selector div class benefits lead text margin and color element */
     margin-bottom: 32px;
     color: #ffffff;
@@ -177,12 +177,6 @@ aside {
     max-width: 150px;
 }
 
-.benefit-brand {
-    /* Sets selector benefit brand text margin and color element */
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
 .benefit-brand h3 {
     /* Sets selector benefit brand header text margin and alignment element */
     margin-bottom: 10px;
@@ -194,12 +188,6 @@ aside {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.benefit-cost {
-    /* Sets selector div class benefit cost text margin and color element */
-    margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .benefit-cost h3 {
