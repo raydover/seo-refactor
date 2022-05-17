@@ -29,8 +29,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
-    /* Sets selector header section content element */
+nav {
+    /* Sets selector header nav section content element */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,13 +38,8 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
-    /* Sets header div ul style element */
-    list-style-type: none;
-}
-
-header div ul li {
-    /* Sets header div ul li box and margin element */
+nav a {
+    /* Sets header nav a box and margin element */
     display: inline-block;
     margin-left: 25px;
 }
