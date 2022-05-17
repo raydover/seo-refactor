@@ -164,40 +164,14 @@ aside {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit h3 {
     /* Sets selector div class benefits lead header margin and alignment element */
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+.benefit img {
     /* Sets selector benefit lead img content element */
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand h3 {
-    /* Sets selector benefit brand header text margin and alignment element */
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand img {
-    /* Sets selector benefit brand img content element */
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost h3 {
-    /* Sets div class benefit cost header text margin and alignment element */
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost img {
-    /* Sets selector benefit cost img content element */
     display: block;
     margin: 10px auto;
     max-width: 150px;
