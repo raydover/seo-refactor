@@ -19,7 +19,7 @@ The assignement required working on an existing code to optimize and improve the
 
 ## Visuals
 
-![Horiseon Screenshot](./assets/images/horiseon-search-engine-optimization.png)
+![Horiseon Screenshot](./assets/images/Horiseon-Search-Engine-Optimization.png)
 
 ## Authors and Acknowledgements
 
