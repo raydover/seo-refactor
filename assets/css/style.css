@@ -147,7 +147,7 @@ p {
 }
 
 aside {
-    /* Sets selector aside section content element */
+    /* changed selector aside section content element */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -159,19 +159,19 @@ aside {
 }
 
 .benefit {
-    /* Sets selector div class benefits lead text margin and color element */
+    /* changed selector benefits text margin and color element */
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .benefit h3 {
-    /* Sets selector div class benefits lead header margin and alignment element */
+    /* changed selector benefits header margin and alignment element */
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit img {
-    /* Sets selector benefit lead img content element */
+    /* changed selector benefit img content element */
     display: block;
     margin: 10px auto;
     max-width: 150px;
