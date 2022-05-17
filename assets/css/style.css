@@ -90,7 +90,7 @@ a {
     background-position: center;
 }
 
-.content {
+main {
     /* Sets selector class content box width and margin element */
     width: 75%;
     display: inline-block;
@@ -146,7 +146,7 @@ p {
     font-size: 36px;
 }
 
-.benefits {
+aside {
     /* Sets selector div class benefits section content element */
     margin-right: 20px;
     padding: 20px;
