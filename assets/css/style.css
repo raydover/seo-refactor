@@ -160,8 +160,9 @@ aside {
 
 .benefit {
     /* changed selector benefits text margin and color element */
-    margin-bottom: 32px;
+    margin-bottom: 35px;
     color: #ffffff;
+    text-align: center;
 }
 
 .benefit h3 {
